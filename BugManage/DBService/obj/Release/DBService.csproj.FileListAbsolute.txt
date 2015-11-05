@@ -1,0 +1,12 @@
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\DBService.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\DBService.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\Common.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\DBModel.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\MySql.Data.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\System.Data.SQLite.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\Common.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\DBModel.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\obj\Release\DBService.csprojResolveAssemblyReference.cache
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\obj\Release\DBService.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\obj\Release\DBService.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Release\System.Data.SQLite.xml

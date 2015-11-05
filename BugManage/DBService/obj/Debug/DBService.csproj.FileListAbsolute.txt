@@ -1,0 +1,12 @@
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\DBService.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\DBService.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\Common.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\DBModel.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\MySql.Data.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\System.Data.SQLite.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\Common.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\DBModel.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\bin\Debug\System.Data.SQLite.xml
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\obj\Debug\DBService.csprojResolveAssemblyReference.cache
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\obj\Debug\DBService.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\DBService\obj\Debug\DBService.pdb

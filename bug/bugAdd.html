@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="email=no">
+    <link rel="shortcut icon" href="img/favicon.ico">
+
+    <link rel="stylesheet" href="css/su.css">
+    <link rel="stylesheet" href="css/su-extend.css">
+    <link rel="stylesheet" href="css/demo.css">
+
+    <!-- <link rel="apple-touch-icon-precomposed" href="../asets/img/apple-touch-icon-114x114.png"> -->
+    <script src="js/zepto.js"></script>
+</head>
+<body>
+    <div id="page-bugAdd" class="page">
+        <header class="bar bar-nav">
+            <a class="button button-link button-nav pull-left back" href="bug.html">
+                <!--<span class="icon i-empty"></span>取消-->
+               <span class="icon icon-left"></span>返回
+            </a>
+            <a class="button button-link button-nav pull-right " href="#"  id="add-success" style="color:#fff">
+                <span class="icon i-empty"></span>
+               确定
+            </a>
+            <h1 class="title">添加事项</h1>
+        </header>
+        <div class="content">
+            <div class="list-block">
+                <ul>
+                    <!-- Text inputs -->
+                    <li>
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">创建人</div>
+                          <div class="item-input">
+                            <input type="text" placeholder="请添加姓名" id="add-create-name" >
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">bug名称</div>
+                          <div class="item-input">
+                            <input type="text" placeholder="请添加bug名称" id="add-detail-name" >
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">软件版本号</div>
+                          <div class="item-input">
+                            <input type="text" placeholder="请添加版本号" id="add-versionNum" >
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    
+                   
+                    <li>
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">手机系统类型</div>
+                          <div class="item-input">
+                            <input type="text" placeholder="请选择手机系统类型"  id="add-os-platform">
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">手机型号</div>
+                          <div class="item-input">
+                            <input type="text" placeholder="请选择手机型号"  id="add-phone-type">
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">紧急程度</div>
+                          <div class="item-input">
+                            <input type="text" placeholder="请选择紧急程度"  id="add-bug-emergency">
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">bug类型</div>
+                          <div class="item-input">
+                            <input type="text" placeholder="请选择bug类型"  id="add-bug-type">
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                    <li class="align-top">
+                      <div class="item-content">
+                        <div class="item-inner">
+                          <div class="item-title label">bug内容</div>
+                          <div class="item-input">
+                            <textarea id="bug-text-con"></textarea>
+                          </div>
+                        </div>
+                      </div>
+                    </li>
+                </ul>
+            </div>
+           <!--  <div class="list-block list-img">
+                <div class="list-img-title">添加图片</div> 
+                <ul class="ranks-remove-add">
+                  <li class="ranks file-inp">
+                      <div class="ranks-media ranks-plus"><input type="file" accept="image/*" id="file-input-btn" style="position: absolute;top:0;width: 100%;height: 3rem; opacity: 0;filter:alpha(opacity=0);"  hidefocus></div>
+                  </li>
+                </ul>
+            </div> -->
+        </div>
+    </div>
+    <script src="js/su.js"></script>
+    <script src="js/su-extend.js"></script>
+    <script src="js/demo.js"></script>
+</body>
+</html>

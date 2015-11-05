@@ -1,0 +1,15 @@
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\Common.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\Common.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\mysql.data.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\System.Data.SQLite.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\obj\Release\Common.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\obj\Release\Common.pdb
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\Common.dll.config
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\EntityFramework.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\EntityFramework.xml
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\zhangmuyang\Desktop\BugManage\BugManage\Common\bin\Release\System.Data.SQLite.xml
